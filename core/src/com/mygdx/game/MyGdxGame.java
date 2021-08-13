@@ -68,6 +68,7 @@ public class MyGdxGame extends ApplicationAdapter {
 		font.setColor(Color.WHITE);
 		font.getData().setScale(10);
 		dizzy = new Texture("dizzy-1.png");
+		String rishabh = "RISHABH";
 	}
 	//coins
 	public void makeCoin(){
